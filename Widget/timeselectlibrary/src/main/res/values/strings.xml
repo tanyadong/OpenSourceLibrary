@@ -1,0 +1,11 @@
+<resources>
+    <string name="time_selector_cancel">Cancel</string>
+    <string name="time_selector_sure">Sure</string>
+    <string name="time_selector_title">Please select time</string>
+    <string name="time_selector_year">Year</string>
+    <string name="time_selector_month">Month</string>
+    <string name="time_selector_day">Day</string>
+    <string name="time_selector_hour">Hour</string>
+    <string name="time_selector_minute">Minute</string>
+    <string name="time_selector_second">Second</string>
+</resources>

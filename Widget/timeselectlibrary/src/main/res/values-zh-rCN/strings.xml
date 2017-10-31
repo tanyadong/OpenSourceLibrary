@@ -1,0 +1,11 @@
+<resources>
+    <string name="time_selector_cancel">取消</string>
+    <string name="time_selector_sure">确定</string>
+    <string name="time_selector_title">请选择时间</string>
+    <string name="time_selector_year">年</string>
+    <string name="time_selector_month">月</string>
+    <string name="time_selector_day">日</string>
+    <string name="time_selector_hour">时</string>
+    <string name="time_selector_minute">分</string>
+    <string name="time_selector_second">秒</string>
+</resources>

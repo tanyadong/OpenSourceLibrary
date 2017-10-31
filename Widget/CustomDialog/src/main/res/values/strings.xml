@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+
+    <string name="dialog_title">Tip</string>
+    <string name="dialog_content">Delete?</string>
+    <string name="dialog_positive">Yes</string>
+    <string name="dialog_negative">no</string>
+    <string name="dialog_hint">Enter custom content here</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="data_selector_white">#FFFFFF</color>
+    <color name="data_selector_black">#000000</color>
+    <color name="data_selector_gray">#11112233</color>
+    <color name="data_selector_time_color">#333333</color>
+    <color name="data_selector_picker_color_green">#26ff00</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">自定义弹框</string>
+
+    <string name="dialog_title">提示</string>
+    <string name="dialog_content">是否删除?</string>
+    <string name="dialog_positive">确定</string>
+    <string name="dialog_negative">取消</string>
+    <string name="dialog_hint">在此输入编辑内容</string>
+</resources>

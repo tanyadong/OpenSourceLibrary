@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dialog" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+        <item name="android:windowFrame">@null</item>
+        <!--边框-->
+        <!--<item name="android:windowIsFloating">true</item>
+        &lt;!&ndash;是否浮现在activity之上&ndash;&gt;-->
+        <item name="android:windowIsTranslucent">false</item>
+        <!--半透明-->
+        <item name="android:windowNoTitle">true</item>
+        <!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--背景透明-->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!--模糊-->
+    </style>
+    <style name="dialogbtom" parent="@android:style/Theme.Holo.DialogWhenLarge.NoActionBar">
+        <item name="android:windowFrame">@null</item>
+        <!--边框-->
+        <item name="android:windowIsTranslucent">false</item>
+        <!--半透明-->
+        <item name="android:windowNoTitle">true</item>
+        <!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--背景透明-->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!--模糊-->
+    </style>
+
+    <style name="dialogstyle" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@animator/slide_from_bottom</item>
+        <item name="@android:windowExitAnimation">@animator/slide_out_bottom</item>
+    </style>
+</resources>

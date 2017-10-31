@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/type_one_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="图文并存的Toast" />
+    <Button
+        android:id="@+id/type_two_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="只有图片的Toast" />
+    <Button
+        android:id="@+id/type_three_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="只有文字的Toast" />
+
+</LinearLayout>
